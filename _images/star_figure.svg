@@ -1,0 +1,10 @@
+<svg width="2.0655in" height="1.9359in" preserveAspectRatio="none" version="1.1" viewBox="0 0 .25819 .24198" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.00017361 0 0 -.00017361 -.24414 .49887)" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">
+  <path d="m2125 1645 427.98-139.06v450l264.5 364.06-427.98 139.06-264.5 364.06-264.5-364.06-427.98-139.06 264.5-364.06v-450l427.98 139.06" fill="#8e6f3e" stroke-width="52.5"/>
+  <path d="m2125 1645-52.61 56.52 2.68-40.3-25.86-31.02 75.79 14.8" fill="#ffc0cb" stroke-width="7.5"/>
+ </g>
+ <path d="m0.04279 0.08371a0.03877 0.03877 0 0 1-0.01343 0.046793" fill="none" stroke="#000" stroke-width=".00520"/>
+ <path d="m0.14926 0.04097a0.03877 0.03877 0 0 1 0.04529-3.7783e-4 0.03877 0.03877 0 0 1 0.01474 0.04283" fill="none" stroke="#000" stroke-width=".0052083"/>
+ <text x="0.07006" y="0.12151" font-size=".02083px" stroke-width=".00130" text-anchor="middle">\(A\)</text>
+ <text x="0.21366" y="0.03258" font-size=".02083px" stroke-width=".00130" text-anchor="middle">\(B\)</text>
+</svg>
